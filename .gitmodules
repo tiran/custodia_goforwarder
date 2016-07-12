@@ -1,0 +1,3 @@
+[submodule "custodia"]
+	path = custodia
+	url = https://github.com/tiran/custodia
